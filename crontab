@@ -1,0 +1,3 @@
+*/5 * * * * /home/dwh2021/dwh202147/staff.bash &> /home/dwh2021/dwh202147/log/staff/daily
+*/5 * * * * /home/dwh2021/dwh202147/usage_log.bash &> /home/dwh2021/dwh202147/log/usage_log/daily
+*/5 * * * * /home/dwh2021/dwh202147/delete_object_candidates.bash &> /home/dwh2021/dwh202147/log/delete_object_candidates/daily
